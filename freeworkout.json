@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.06046359999999, 
+                    38.904961
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Nike Bootcamp", 
+                "Location": "3040 M Street NW Washington DC 20007", 
+                "date": "10-Nov", 
+                "marker-symbol": "pitch", 
+                "time": "8:00pm"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0648811, 
+                    38.9053714
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Community Yoga Class lululemon Georgetown", 
+                "Location": "3265 M St. NW Washington DC 20007", 
+                "date": "11-Nov", 
+                "marker-symbol": "pitch", 
+                "time": "7:00pm"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0339645, 
+                    38.9098374
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "lululemon Miles and Margs", 
+                "Location": "1461 P Street NW Washington DC 20007", 
+                "date": "12-Nov", 
+                "marker-symbol": "pitch", 
+                "time": "6:30pm"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.02159429999999, 
+                    38.9232583
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Event": "Thursday Night FITcamps NW DC", 
+                "Location": "2400 6th St NW Washington DC 20059", 
+                "date": "13-Nov", 
+                "marker-symbol": "pitch", 
+                "time": "6:30pm"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
